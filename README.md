@@ -1,4 +1,4 @@
-### ⚡⚡ Projects/homeworks/self-education ⚡⚡
+### ⚡⚡ Projects | Homeworks | Self-education ⚡⚡
 
 <!--
 **himawariq/himawariq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
