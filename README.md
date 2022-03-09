@@ -1,6 +1,6 @@
 ### Hello! 🦎
 
-I'm Sokolov Alexander. Currently working in banking and transaction sector. Interested in making data insights with ML/DL frameworks. Also making analysis dashboards for business using Superset/Metabase. Have production skills, also know how to use Go for ML. At free time discovering new ways of data analysis, generation using Graph Neural Networks & StyleGAN'S.
+I'm Sokolov Alexander. Currently working in banking and transaction sector. Interested in making data insights with ML/DL frameworks. Also making analysis dashboards for business using Superset/Metabase. Have production skills, also know how to use Go for ML. At free time discovering new ways of data analysis.
 
 ⚡ **Education**: <br>
 - HSE in Saint-Petersburg | Bachelor's degree 2016-2020 | GPA: 7.57/10
