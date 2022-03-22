@@ -21,7 +21,7 @@ text message clusterization to
 improve acquiring engineer's
 productivity
 
-🌱 ** My Stack**:
+🌱 **My Stack**:
 - Python, Goolang
 - Apache Superset, Metabase, PostgreSQL, SQL
 - Machine Learning, DeepLearning
