@@ -1,8 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
-<p align="left">
-        <a <img src="https://sun9-86.userapi.com/impf/xyvg4QgQJJwY--ywphXJFeeQNbAI2M2ev0Ib1A/oXHYWD7MfSM.jpg?size=500x500&quality=95&sign=4303f97783162809a130338ef74f6451&type=album" width="100" 
-     height="50"/> </a> </p>
+<img src="https://media1.giphy.com/media/WDZBrmwNjm5g8qsl1F/giphy.gif?cid=ecf05e47d06ki936jvx6ammaund3dj9xmfwm0objuiq55uv9&rid=giphy.gif&ct=g" width="500" 
+    /> </a> </p>
 <h1 align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Я Александр</h1>
 <h3 align="center">JUN+ Analyst Data Scientist</h3>
 
