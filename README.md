@@ -1,7 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
-<a href="#"><img width="100%" height="auto" src="https://sun9-86.userapi.com/impf/xyvg4QgQJJwY--ywphXJFeeQNbAI2M2ev0Ib1A/oXHYWD7MfSM.jpg?size=500x500&quality=95&sign=4303f97783162809a130338ef74f6451&type=album" height="175px" width="100" 
-     height="100"/></a>
+<a href="#"><img width="100%" height="auto" src="https://sun9-86.userapi.com/impf/xyvg4QgQJJwY--ywphXJFeeQNbAI2M2ev0Ib1A/oXHYWD7MfSM.jpg?size=500x500&quality=95&sign=4303f97783162809a130338ef74f6451&type=album" height="50" width="50" /></a>
 
 <h1 align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Я Александр</h1>
 <h3 align="center">JUN+ Analyst Data Scientist</h3>
