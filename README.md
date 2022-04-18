@@ -15,7 +15,7 @@
 
 - 📫 Почта для связи: **sokolovalexanderr@gmail.com**
 
-- ⚡ **Цель на 2022 год - вырасти до Middle Analyst Data Scientist + road to FullStack Data Scientist (◕‿◕)**
+- ⚡ **Цель на 2022 год - вырасти до Middle  Data Scientist + road to Full Stack Data Scientist (◕‿◕)**
 
 ## 🚀 Мой стек:
 
