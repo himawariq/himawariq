@@ -17,7 +17,7 @@
 
 - ⚡ **Цель на 2022 год - вырасти до Middle  Data Scientist + road to Full Stack Data Scientist (◕‿◕)**
 
-## 🚀 Мой стек:
+## 🚀 Мой стек [В доработке]:
 
 <p align="left">
         <a href="https://www.python.org" target="_blank"> 
