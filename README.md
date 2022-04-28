@@ -1,8 +1,8 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
-<img src="https://media1.giphy.com/media/WDZBrmwNjm5g8qsl1F/giphy.gif?cid=ecf05e47d06ki936jvx6ammaund3dj9xmfwm0objuiq55uv9&rid=giphy.gif&ct=g" width="500" class='center'> </a> </p>
-<h1 align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Я Александр</h1>
-<h3 align="center">JUN+ Data Scientist</h3>
+<img src="https://media1.giphy.com/media/WDZBrmwNjm5g8qsl1F/giphy.gif?cid=ecf05e47d06ki936jvx6ammaund3dj9xmfwm0objuiq55uv9&rid=giphy.gif&ct=g" width="500" class='left'> </a> </p>
+<h1 align="left"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Я Александр</h1>
+<h3 align="left">JUN+ Data Scientist</h3>
 
 
 ## 🙋‍♂️ Обо мне
