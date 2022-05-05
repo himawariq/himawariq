@@ -5,7 +5,7 @@
 <h3 align="left">JUN+ Data Scientist</h3>
 
 
-## 🙋‍♂️ Обо мне
+## 🙋‍♂️ Обо мне [](https://github.com/himawariq/himawariq/blob/main/giphy.gif)
 
 - 🔭 С 2021 работаю в роли JUN DS в банковской сфере. 
 
