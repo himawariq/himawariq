@@ -1,8 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" href="https://media.giphy.com/media/Pu5F5t64WNKYE/giphy.gif" >
           
 <img src="https://media1.giphy.com/media/WDZBrmwNjm5g8qsl1F/giphy.gif?cid=ecf05e47d06ki936jvx6ammaund3dj9xmfwm0objuiq55uv9&rid=giphy.gif&ct=g" width="500" class='left'> </a> </p>
-<h1 align="left"> Соколов Александр  <h/h1>
-<h3 align="left">JUN+ Data Scientist</h3>
+<h1 align="left"> Соколов Александр JUN+ Data Scientist <h/h1>
 
 
 ## 💡Обо мне 
